@@ -1,0 +1,56 @@
+ * Fonte *
+
+-1 Transformador de 12 + 12V por 1.5 A
+-2 Diodos 1N5406
+-1 Capacitor eletrolítico de 3300 a 4700uf x 25V ou mais
+-1 Capacitor cerâmico de 100nf x 25V ou mais    
+-1 Fusível de 1A x 250V
+-1 Porta Fusível
+-1 Cabo de alimentação com plug para tomada elétrica
+-1 Chave ON/OFF 
+-1 chave 110/220 (opcional) 
+
+
+  * Circuito de regulagem de tensão *
+
+-1 CI LM317 ou LM350 (ver texto)
+-1 Dissipador para CI
+-2 Capacitores eletrolíticos de 2200uf x 25V ou mais
+-1 Capacitor cerâmico de 100nf x 25V ou mais
+-1 Potenciômetro de 4,7K 
+-1 Knob para potenciômetro
+-1 Resistor de 220 Ohms
+-2 Plug banana (1 vermelho e 1 preto)
+-1 conector Sindal com 6 segmentos
+
+
+  * Voltímetro *
+
+-1 CI Attiny85 com soquete
+-1 Display de LCD 16x2 com placa I2C
+-1 CI 7805 (regulador de tensão)
+-1 Capacitor eletrolítico de 220uf x 16V ou mais
+-1 Resistor de 270 Ohms
+-1 Resistor de 470 Ohms
+-1 Placa padrão perfurada para a montagem (5 x5 cm dá e sobra)
+
+
+   * Diversos *
+
+- Caixa de madeira, plástico, acrílico, etc
+- Ferro de solda, estanho
+- Fios diversos
+- Cola quente, ou epoxi
+- Cintas plásticas
+- Tinta spray
+- Parafusos diversos
+- Alça de transporte e pezinhos 
+
+
+
+
+
+
+
+
+
